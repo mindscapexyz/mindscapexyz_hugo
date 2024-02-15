@@ -21,13 +21,13 @@ params:
 
 
   whois: 
-      name: "John Doe"
-      profession: "Unknown"
-      location: "Somewhere"
-      email: "foo@someemail.com"
+      name: "Halim Shukor"
+      profession: "Machine Learning Engineer"
+      location: "Kuala Lumpur"
+      email: "mhalimshukor@gmail.com"
       homelink: "https://myHomePage.com"
       description: |
-              Here you can write something catchy about yourself
+              LLM helps me write this
 
   social:
     ## IF you want to keep them aligned just add spaces
