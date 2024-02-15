@@ -32,17 +32,13 @@ params:
   social:
     ## IF you want to keep them aligned just add spaces
     - name: "github"
-      url: "          https://github.com"
-    - name: "facebook"
-      url: "        https://facebook.com"
-    - name: "myspace"
-      url: "         https://myspace.com"
-    - name: "hi5"
-      url: "             https://www.hi5.com"
+      url: "          https://github.com/mindscapexyz"
+    - name: "X"
+      url: "               https://twitter.com/hlmshkr"
     - name: "instagram"
-      url: "       https://instagram.com"
-    - name: "Another social"
-      url: "  https://anothersocial.com"
+      url: "       https://instagram.com/hlmshkr"
+    - name: "linkedin"
+      url: "        https://www.linkedin.com/in/halimshukor/"
 
   workexp:
     - jobTitle: Job With Red Title
