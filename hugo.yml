@@ -153,6 +153,47 @@ params:
           now instead of misc you can execute the newcommand for this section
           Auto completion will know it too! :D 
 
+          More info about my likes and dislikes
+          Current favourites and daily drivers
+          ----------------------------------------------------------
+          Arch Linux      ProxMox     Debian
+          NeoVIM          GitLab      GitHub
+          GitlabCI        GHActions   TravisCI      FluxCD
+          ElasticSearch   OpenSearch  OpenTelemetry
+          HUGO            LaTeX
+          Terraform       Bash        Go            Python
+          AWS             Hetzner     Scaleway      GCP
+          Nginx           Traefik      Docker        Kubernetes
+          Wireguard       RaspberryPi Unifi
+          Notion          Figma       Jira          Confluence
+          Protonmail      Element.io  Slack         Discord
+          Davinci Resolve
+
+          ------------------------------------------------------------ 
+          Currently using but I don't like them that much
+          ------------------------------------------------------------
+          AzureDevops    MSTeams      Office365     Windows
+          Ubuntu         
+
+          ------------------------------------------------------------ 
+          I Don't like
+          ------------------------------------------------------------
+          Jenkins        VSCode
+
+          ------------------------------------------------------------
+          Maybe I should learn more about
+          ------------------------------------------------------------
+          MySQL       Front-end 
+
+          ------------------------------------------------------------
+          I've used in the past
+          ------------------------------------------------------------
+          CentOS        Fedora        Unraid    Expect
+          CISCO         Juniper       Novell    OpenVPN
+          Atom          Obsidian      BitBucket     
+          Postfix        Dovecot       Apache    CPanel
+          OVH           VirtualBox    VMWare    OpenStack
+
     contentColor: orange
 
   more:
