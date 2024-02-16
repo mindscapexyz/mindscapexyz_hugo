@@ -15,7 +15,7 @@ params:
 # hidesource: true
   greeting: | 
     If you're looking for details about Mindscape or Halim, 
-    then you are welcome to explore in this terminal!
+    then you are welcome to explore this terminal!
 
     Type 'help' for a list of available commands
 
