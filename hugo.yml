@@ -14,8 +14,8 @@ params:
 # exitLocation: 'about:blank'
 # hidesource: true
   greeting: | 
-    Welcome to my online resume
-
+    If you're looking for details about Mindscape or Halim, 
+    then you are welcome to explore in this terminal!
 
     Type 'help' for a list of available commands
 
@@ -25,7 +25,7 @@ params:
       profession: "Machine Learning Engineer"
       location: "Kuala Lumpur"
       email: "mhalimshukor@gmail.com"
-      homelink: "https://myHomePage.com"
+      homelink: "https://projectmindscape.xyz"
       description: |
               LLM helps me write this
 
@@ -40,50 +40,52 @@ params:
     - name: "linkedin"
       url: "        https://www.linkedin.com/in/halimshukor/"
 
-  workexp:
-    - jobTitle: Job With Red Title
-      color: red
-      company: '-' 
-      location: somewhere
-      date: August 2010 - Present
-      description: Some description about this red title job
+  work:
+    - jobTitle: Machine Learning Engineer
+      color: gray
+      company: DÜRR NDT 
+      location: Bietiegheim-Bissigen (Remote)
+      date: Jan 2022 - Present
+      description: I designed and built ML Ops infrastructure and pipeline
 
-    - jobTitle: Job with purple title
-      color: purple
-      company: '-'
-      location: somewhere elese
-      date: July 2000  - July 2010
-      description: Some description about this purple job
+       I helped the integration of machine learning model inferencing in our C++ based software
+       
+       I also rolled my own image labelling tool with Qt framework 
+    
+       I kept up with the SOTA research on machine learning models and algorithm
 
-    - jobTitle: Job with default color title
-      company: '-'
-      location: anywhere
-      date: July 2008 - 2010
-      description: Description about this default color job
+
+      
+    - jobTitle: Executive
+      color: gray
+      company: Sime Darby Plantation
+      location: Carey Island
+      date: Aug 2020 - Dec 2021
+      description: I basically managed the whole Palm Oil mill operations
+
+        I built a mobile application to digitise the process data in Palm Oil Mill using Microsoft Power Apps
 
   education:
-   - courseName: Red Color training
-     color: red
-     date: June 2019 - July 2019
-     description: Descrption about red color trianing
-
-   - courseName: Default color training
-     date: Sept 2004 - Jun 2008
-     #description: There is no need for description
+   - courseName: The University of Auckland
+     color: gray
+     date: Feb 2016 - Feb 2020
 
   skills:
-    - name: Skill 1
-      percentage: 90
-      Description: you can add a description
+    - name: General programming
+      percentage: 100
+      description: Python, C++
 
-    - name: Skill 2
-      percentage: 30
-      #description: or you can leave it comented   
+    - name: DevOps
+      percentage: 100
+      description: Git, CI/CD, Bash, Powershell
 
-    - name: Skill 3
-      color: blue
-      percentage: 50
-      description: Skill names can have colors too
+    - name: Infrastructure as a Code
+      percentage: 100
+      description: Terraform, CloudFormation, Kubernetes, AWS CDK   
+
+    - name: AI/ML frameworks
+      percentage: 100
+      description: TensorFlow, PyTorch
 
   softskills:
     - name: SoftSkill 1
@@ -151,3 +153,46 @@ params:
           Auto completion will know it too! :D 
 
     contentColor: orange
+
+  more:
+    content: |
+          More info about my likes and dislikes
+          Current favourites and daily drivers
+          ----------------------------------------------------------
+          Arch Linux      ProxMox     Debian
+          NeoVIM          GitLab      GitHub
+          GitlabCI        GHActions   TravisCI      FluxCD
+          ElasticSearch   OpenSearch  OpenTelemetry
+          HUGO            LaTeX
+          Terraform       Bash        Go            Python
+          AWS             Hetzner     Scaleway      GCP
+          Nginx           Traefik      Docker        Kubernetes
+          Wireguard       RaspberryPi Unifi
+          Notion          Figma       Jira          Confluence
+          Protonmail      Element.io  Slack         Discord
+          Davinci Resolve
+
+          ------------------------------------------------------------ 
+          Currently using but I don't like them that much
+          ------------------------------------------------------------
+          AzureDevops    MSTeams      Office365     Windows
+          Ubuntu         
+
+          ------------------------------------------------------------ 
+          I Don't like
+          ------------------------------------------------------------
+          Jenkins        VSCode
+
+          ------------------------------------------------------------
+          Maybe I should learn more about
+          ------------------------------------------------------------
+          MySQL       Front-end 
+
+          ------------------------------------------------------------
+          I've used in the past
+          ------------------------------------------------------------
+          CentOS        Fedora        Unraid    Expect
+          CISCO         Juniper       Novell    OpenVPN
+          Atom          Obsidian      BitBucket     
+          Postfix        Dovecot       Apache    CPanel
+          OVH           VirtualBox    VMWare    OpenStack
