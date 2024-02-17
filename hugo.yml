@@ -132,7 +132,32 @@ params:
       date: 2023
       link: https://drive.google.com/file/d/1cAhxninxgazKbPWI28hXv5PE3oSzmTBX/view?usp=sharing
       description: sawitPandAI is an object detection AI that helps detecting and classifying the freshness of the 
+
         palm oil fruit bunchs whether they are ripe, overripe, underripe or unripe.
+
+    - title: Simplifying AI/ML research papers for sharing session
+      date: 2023
+      link: 
+      description: I read AI/ML research papers, tried to simplify them so I could explain about them
+
+      to my colleagues during Development sessions
+
+      title: Virtual Sci Fest website
+      date: 2021
+      link: https://www.psn.gov.my/psn-scifest-menutup-kalendar-aktiviti-perkasa-sti-untuk-tahun-2022/
+      description: During COVID lockdown season, Pusat Sains Negara (PSN) organised a virtual science fest. I helped
+
+      them built the website that allows virtual activities to be done there.
+
+      title: Palm Oil Mills Hourly Data reporting tool
+      date: 2021
+      link: https://www.linkedin.com/feed/update/urn:li:activity:6808242858672427008/
+      description: I built a PowerApps to help my palm oil mill at that time digitise their hourly data.
+
+      All hourly data are updated in the app, removing the bombardment of copy and paste templates in whatsApp group.
+
+
+
 
   certifications:
   - certName: AWS Certified Machine Learning – Specialty
