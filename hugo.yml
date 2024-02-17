@@ -101,7 +101,6 @@ params:
 
   languages:
     - name: English
-      color: Blue
       percentage: 100
       #description: 
 
@@ -115,20 +114,25 @@ params:
       color: Gray
       date: 2024
       link: https://aws.amazon.com/machine-learning/trainium/
-      description: A few others Malaysia AI volunteers together with me  setup our cloud infrastructure, model training and
-      inferencing using state-of-the-art AWS Accelerator Chips (Trainium and Inferentia). The AWS Accelerators chips which have their own native SDK 
-      called AWS Neuron. This resulted in faster training and inferencing while minimizing our AWS bills
+      description: A few others Malaysia AI volunteers together with me setup our cloud infrastructure, model training 
+      
+        and inferencing using state-of-the-art AWS Accelerator Chips (Trainium and Inferentia). 
+      
+        The AWS Accelerators chips also have their own native SDK called AWS Neuron
+      
+        This has resulted in faster training and inferencing while minimizing our AWS bills
 
-    - title: Data gathering and scraping for Malaysia AI LLM
+    - title: Web scraping and data gathering for Malaysia AI LLM
       color: Gray
       date: since 2023
       link: https://huggingface.co/malaysia-ai
       description: I scraped and gathered datasets from several websites which help our LLM contextualise Malaysian context
 
-    - title: Project Default
-      date: Since 2017
-      link: https://example.com/default
-      #description: not there either
+    - title: sawitpandAI - AI that assists palm oil fruit grading
+      date: 2023
+      link: https://drive.google.com/file/d/1cAhxninxgazKbPWI28hXv5PE3oSzmTBX/view?usp=sharing
+      description: sawitPandAI is an object detection AI that helps detecting and classifying the freshness of the 
+        palm oil fruit bunchs whether they are ripe, overripe, underripe or unripe.
 
   certifications:
   - certName: AWS Certified Machine Learning – Specialty
