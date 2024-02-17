@@ -1,10 +1,10 @@
 ## Example Config file
 BaseURL: "https://mindscapexyz.github.io/mindscapexyz_hugo/"
 theme: "terminalcv"
-title: "Mindscape's CV"
+title: "Mindscape's Terminal"
 
 params:
-  description: "Mindscape's CV"
+  description: "Mindscape's Terminal"
 # prompt: "newuser@terminalcv"
 # promptColor: grey
 # promptSimbols: ":~$"
