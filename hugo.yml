@@ -1,11 +1,11 @@
 ## Example Config file
-BaseURL: "https://example.com"
+BaseURL: "https://projectmindscape.xyz"
 theme: "terminalcv"
-title: "terminalCV"
+title: "Mindscape's CV"
 
 params:
-  description: "4s3ti cv terminal format"
-  prompt: "newuser@terminalcv"
+  description: "Mindscape's CV"
+# prompt: "newuser@terminalcv"
 # promptColor: grey
 # promptSimbols: ":~$"
 # promptSimbolsColor: grey
@@ -28,7 +28,8 @@ params:
       homelink: "https://projectmindscape.xyz"
       description: |
               I am an Engineer, Programmer and Researcher. I am currently working for DURR NDT where I help them building AI/ML solution in
-              NDT radiography industry. Outside of work, I mostly hangout and contribute in open-source development of Malaysia-AI community
+              NDT radiography industry. Outside of work, I mostly explored others' indie game development
+              or contribute in open-source development of Malaysia-AI community
 
   social:
     ## IF you want to keep them aligned just add spaces
@@ -88,27 +89,6 @@ params:
       percentage: 100
       description: TensorFlow, PyTorch
 
-  softskills:
-    - name: SoftSkill 1
-      color: red
-      percentage: 80
-      #description:
-
-    - name:  SoftSkill 2
-      #color: 
-      percentage: 90
-      description: Description
-
-  languages:
-    - name: English
-      percentage: 100
-      #description: 
-
-    - name: Malay
-      percentage: 100
-      # description: pasghettipigglywiggly
-
-
   projects:
     - title: Running model training and inference on AWS Accelerators
       color: Gray
@@ -140,21 +120,21 @@ params:
       link: 
       description: I read AI/ML research papers, tried to simplify them so I could explain about them
 
-      to my colleagues during Development sessions
+       to my colleagues during Development sessions
 
       title: Virtual Sci Fest website
       date: 2021
       link: https://www.psn.gov.my/psn-scifest-menutup-kalendar-aktiviti-perkasa-sti-untuk-tahun-2022/
       description: During COVID lockdown season, Pusat Sains Negara (PSN) organised a virtual science fest. I helped
 
-      them built the website that allows virtual activities to be done there.
+        them built the website that allows virtual activities to be done there.
 
       title: Palm Oil Mills Hourly Data reporting tool
       date: 2021
       link: https://www.linkedin.com/feed/update/urn:li:activity:6808242858672427008/
       description: I built a PowerApps to help my palm oil mill at that time digitise their hourly data.
 
-      All hourly data are updated in the app, removing the bombardment of copy and paste templates in whatsApp group.
+        All hourly data are updated in the app, removing the bombardment of copy and paste templates in whatsApp group.
 
 
 
@@ -165,112 +145,44 @@ params:
     date: 2023
     description: https://www.credly.com/badges/6ed2fa58-121a-4821-81b5-81e8ee38e1f7/linked_in_profile
 
-    certName: AWS Certified Cloud Practitioner
+  - certName: AWS Certified Cloud Practitioner
     company: Amazon Web Services (AWS)
     date: 2023
     description: https://www.credly.com/badges/81b006f1-d0af-484f-9a87-15197336677c/linked_in_profile
   
   misc: 
     #commandName: newcommand
-    title: "This Section can have a different command name"
-    titleColor: teal
+    title: "mindscape-smi"
+    titleColor: gray
     content: |
-          Here the title and the content can have different colors
-          The content can be multi
-          
-          line
-
-          And spaces       will be respected as well
-          This section will have the default command: misc
-          but you can name it something else with the property
-          commandName: <String>
-          Give it a shot and try and uncomment the line 
-          commandName: newcommand
-          now instead of misc you can execute the newcommand for this section
-          Auto completion will know it too! :D 
-
-          More info about my likes and dislikes
           Current favourites and daily drivers
           ----------------------------------------------------------
-          Arch Linux      ProxMox     Debian
-          NeoVIM          GitLab      GitHub
-          GitlabCI        GHActions   TravisCI      FluxCD
-          ElasticSearch   OpenSearch  OpenTelemetry
-          HUGO            LaTeX
-          Terraform       Bash        Go            Python
-          AWS             Hetzner     Scaleway      GCP
-          Nginx           Traefik      Docker        Kubernetes
-          Wireguard       RaspberryPi Unifi
-          Notion          Figma       Jira          Confluence
-          Protonmail      Element.io  Slack         Discord
-          Davinci Resolve
+          Ubuntu          WSL2        Debian
+          VSCode          GitLab      GitHub
+          GitlabCI        GHActions   ArgoCD
+          HUGO            LaTeX       PlantUML
+          Terraform       Bash        C++            
+          AWS             Hetzner     AWS CDK
+          Nginx           Docker      Kubernetes
+          Obsidian        Figma       Jira          
+          Discord         Qt          AWS SageMaker
+          Python
+
 
           ------------------------------------------------------------ 
           Currently using but I don't like them that much
           ------------------------------------------------------------
-          AzureDevops    MSTeams      Office365     Windows
-          Ubuntu         
-
+          MSTeams      Office365     Windows    PowerShell
+    
           ------------------------------------------------------------ 
           I Don't like
           ------------------------------------------------------------
-          Jenkins        VSCode
+          Wordpress        MatLab            
 
           ------------------------------------------------------------
           Maybe I should learn more about
           ------------------------------------------------------------
-          MySQL       Front-end 
+          Databases       Front-end     Networking
 
-          ------------------------------------------------------------
-          I've used in the past
-          ------------------------------------------------------------
-          CentOS        Fedora        Unraid    Expect
-          CISCO         Juniper       Novell    OpenVPN
-          Atom          Obsidian      BitBucket     
-          Postfix        Dovecot       Apache    CPanel
-          OVH           VirtualBox    VMWare    OpenStack
 
-    contentColor: orange
-
-  more:
-    content: |
-          More info about my likes and dislikes
-          Current favourites and daily drivers
-          ----------------------------------------------------------
-          Arch Linux      ProxMox     Debian
-          NeoVIM          GitLab      GitHub
-          GitlabCI        GHActions   TravisCI      FluxCD
-          ElasticSearch   OpenSearch  OpenTelemetry
-          HUGO            LaTeX
-          Terraform       Bash        Go            Python
-          AWS             Hetzner     Scaleway      GCP
-          Nginx           Traefik      Docker        Kubernetes
-          Wireguard       RaspberryPi Unifi
-          Notion          Figma       Jira          Confluence
-          Protonmail      Element.io  Slack         Discord
-          Davinci Resolve
-
-          ------------------------------------------------------------ 
-          Currently using but I don't like them that much
-          ------------------------------------------------------------
-          AzureDevops    MSTeams      Office365     Windows
-          Ubuntu         
-
-          ------------------------------------------------------------ 
-          I Don't like
-          ------------------------------------------------------------
-          Jenkins        VSCode
-
-          ------------------------------------------------------------
-          Maybe I should learn more about
-          ------------------------------------------------------------
-          MySQL       Front-end 
-
-          ------------------------------------------------------------
-          I've used in the past
-          ------------------------------------------------------------
-          CentOS        Fedora        Unraid    Expect
-          CISCO         Juniper       Novell    OpenVPN
-          Atom          Obsidian      BitBucket     
-          Postfix        Dovecot       Apache    CPanel
-          OVH           VirtualBox    VMWare    OpenStack
+    contentColor: Gray
