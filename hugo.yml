@@ -102,26 +102,28 @@ params:
   languages:
     - name: English
       color: Blue
-      percentage: 50
+      percentage: 100
       #description: 
 
-    - name: Gibberish
+    - name: Malay
       percentage: 100
-      description: pasghettipigglywiggly
+      # description: pasghettipigglywiggly
 
 
   projects:
-    - title: Project Red
-      color: red
-      date: since 2019
-      link: https://example.com
-      description: Describing red stuff
+    - title: Running model training and inference on AWS Accelerators
+      color: Gray
+      date: 2024
+      link: https://aws.amazon.com/machine-learning/trainium/
+      description: A few others Malaysia AI volunteers together with me  setup our cloud infrastructure, model training and
+      inferencing using state-of-the-art AWS Accelerator Chips (Trainium and Inferentia). The AWS Accelerators chips which have their own native SDK 
+      called AWS Neuron. This resulted in faster training and inferencing while minimizing our AWS bills
 
-    - title: Project Blue
-      color: blue
-      date: since 2016
-      link: https://example.com/blue
-      #description: nothing to describe
+    - title: Data gathering and scraping for Malaysia AI LLM
+      color: Gray
+      date: since 2023
+      link: https://huggingface.co/malaysia-ai
+      description: I scraped and gathered datasets from several websites which help our LLM contextualise Malaysian context
 
     - title: Project Default
       date: Since 2017
@@ -129,10 +131,15 @@ params:
       #description: not there either
 
   certifications:
-  - certName: Example Cert
-    company: Example Certifying Company
-    date: Date of Completion
-    #description: Lorem Ipsum
+  - certName: AWS Certified Machine Learning – Specialty
+    company: Amazon Web Services (AWS)
+    date: 2023
+    description: https://www.credly.com/badges/6ed2fa58-121a-4821-81b5-81e8ee38e1f7/linked_in_profile
+
+    certName: AWS Certified Cloud Practitioner
+    company: Amazon Web Services (AWS)
+    date: 2023
+    description: https://www.credly.com/badges/81b006f1-d0af-484f-9a87-15197336677c/linked_in_profile
   
   misc: 
     #commandName: newcommand
