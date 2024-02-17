@@ -1,5 +1,5 @@
 ## Example Config file
-BaseURL: "https://projectmindscape.xyz"
+BaseURL: "https://mindscapexyz.github.io/mindscapexyz_hugo"
 theme: "terminalcv"
 title: "Mindscape's CV"
 
