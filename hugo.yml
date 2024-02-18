@@ -46,7 +46,7 @@ params:
     - jobTitle: Machine Learning Engineer
       color: gray
       company: DÜRR NDT 
-      location: Bietiegheim-Bissigen (Remote)
+      location: Bietiegheim-Bissingen (Remote)
       date: Jan 2022 - Present
       description: I designed and built ML Ops infrastructure and pipeline
 
@@ -166,7 +166,7 @@ params:
           Nginx           Docker      Kubernetes
           Obsidian        Figma       Jira          
           Discord         Qt          AWS SageMaker
-          Python
+          Python          OpenCV      Apple Notes
 
 
           ------------------------------------------------------------ 
