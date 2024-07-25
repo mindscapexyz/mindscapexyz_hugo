@@ -14,8 +14,27 @@ params:
 # exitLocation: 'about:blank'
 # hidesource: true
   greeting: | 
-    If you're looking for details about Mindscape or Halim, 
-    then you are welcome to explore this terminal!
+    Hi, I've been told by my friend that a redditor called KarenOfficial roasted one
+    of my personal portfolio on r/webdev. 
+
+    Sorry that you find it annoying. I didn't expect to get a lot of feedbacks for this 
+    as it's something I built for fun and I don't remember giving this to any recruiter recently.
+
+    I do build other open source projects (mainly data science and ml related) in my portfolios 
+    if u're interested
+
+    https://github.com/mindscapexyz
+
+    https://github.com/malaysia-ai
+
+    https://huggingface.co/malaysia-ai
+
+    and check it out my another portfolio too
+
+    https://malaysia-ai.org/
+
+    If you still want to continue looking for details about 
+    Mindscape or Halim, then you are welcome to explore this terminal!
 
     Type 'help' for a list of available commands
 
