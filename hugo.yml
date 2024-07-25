@@ -14,14 +14,15 @@ params:
 # exitLocation: 'about:blank'
 # hidesource: true
   greeting: | 
-    I've been told by my friend that a redditor called KarenOfficial 
-    roasted one of my personal portfolio on r/webdev. Sorry that you find 
-    it annoying. I didn't expect to get a lot of feedbacks for this 
-    as it's something I built for fun and I don't remember giving this to 
-    any recruiter recently.
+    I've been told by my friend that a redditor called 
+    KarenOfficial roasted one of my personal portfolio 
+    on r/webdev. Sorry that you find it annoying. I 
+    didn't expect to get a lot of feedbacks for this 
+    as it's something I built for fun and I don't remember 
+    giving this to any recruiter recently.
 
-    I do build other open source projects (mainly data science and ml related) in 
-    my portfolios if anyone interested
+    I do build other open source projects (mainly data science 
+    and ml related) in my portfolios if anyone interested
 
     https://github.com/mindscapexyz
 
